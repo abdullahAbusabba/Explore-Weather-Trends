@@ -1,5 +1,5 @@
-#Exploring Weather Trends - Project Instructions<br/>
-#Summary
+<h1>Exploring Weather Trends - Project Instructions</h1><br/>
+<h1>Summary</h1>
 In this project, I will analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 Instructions
